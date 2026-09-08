@@ -32,9 +32,14 @@
   ],
   "Peri": [
     {
-      "DisplayName": "Peri_Service_v1.0.0.exe",
-      "Version": "v1.0.0",
-      "DownloadUrl": "यहाँ_Peri_का_असली_लिंक_डालें"
+      "DisplayName": "PeriServiceSetup_V1.1.84.msi",
+      "Version": "v1.1.84",
+      "DownloadUrl": "https://github.com/caredigitalmitra-spec/LaunchPad-Drivers/releases/download/LaunchPad-Drivers/PeriServiceSetup_V1.1.84.msi"
+    }
+     {
+      "DisplayName": "setup.exe",
+      "Version": "v1.1.84",
+      "DownloadUrl": "https://github.com/caredigitalmitra-spec/LaunchPad-Drivers/releases/download/LaunchPad-Drivers/setup.exe"
     }
   ]
 }
