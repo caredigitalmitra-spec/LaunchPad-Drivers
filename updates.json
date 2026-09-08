@@ -35,11 +35,67 @@
       "DisplayName": "PeriServiceSetup_V1.1.84.msi",
       "Version": "v1.1.84",
       "DownloadUrl": "https://github.com/caredigitalmitra-spec/LaunchPad-Drivers/releases/download/LaunchPad-Drivers/PeriServiceSetup_V1.1.84.msi"
-    }
-     {
+    },
+    {
       "DisplayName": "setup.exe",
       "Version": "v1.1.84",
       "DownloadUrl": "https://github.com/caredigitalmitra-spec/LaunchPad-Drivers/releases/download/LaunchPad-Drivers/setup.exe"
+    }
+  ],
+  "Ingenico": [
+    {
+      "DisplayName": "Ingenico_MicroATM.exe",
+      "Version": "v1.0.0",
+      "DownloadUrl": "INSERT_LINK_HERE"
+    }
+  ],
+  "Move 2500": [
+    {
+      "DisplayName": "Move2500_MicroATM.exe",
+      "Version": "v1.0.0",
+      "DownloadUrl": "INSERT_LINK_HERE"
+    }
+  ],
+  "Epson": [
+    {
+      "DisplayName": "Epson_Passbook_Printer.exe",
+      "Version": "v1.0.0",
+      "DownloadUrl": "INSERT_LINK_HERE"
+    }
+  ],
+  "TVS": [
+    {
+      "DisplayName": "TVS_Passbook_Printer.exe",
+      "Version": "v1.0.0",
+      "DownloadUrl": "INSERT_LINK_HERE"
+    }
+  ],
+  "Olivetti": [
+    {
+      "DisplayName": "Olivetti_Passbook_Printer.exe",
+      "Version": "v1.0.0",
+      "DownloadUrl": "INSERT_LINK_HERE"
+    }
+  ],
+  "GPS": [
+    {
+      "DisplayName": "GPS_8.0_Service.exe",
+      "Version": "v8.0.0",
+      "DownloadUrl": "INSERT_LINK_HERE"
+    }
+  ],
+  "Thermal": [
+    {
+      "DisplayName": "Thermal_Receipt_Printer.exe",
+      "Version": "v1.0.0",
+      "DownloadUrl": "INSERT_LINK_HERE"
+    }
+  ],
+  "Microsoft": [
+    {
+      "DisplayName": "VC_Redist_AIO.exe",
+      "Version": "v2022",
+      "DownloadUrl": "INSERT_LINK_HERE"
     }
   ]
 }
