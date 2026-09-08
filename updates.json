@@ -1,0 +1,14 @@
+{
+  "Mantra": [
+    {
+      "DisplayName": "MantraL1RDService_1.5.1.exe",
+      "Version": "v1.5.1",
+      "DownloadUrl": "https://github.com/caredigitalmitra-spec/LaunchPad-Drivers/releases/download/LaunchPad-Drivers/MantraL1RDService_1.5.1.exe"
+    },
+    {
+      "DisplayName": "MFS110Driver_2.0.0.0.1.exe",
+      "Version": "v2.0.0.0.1",
+      "DownloadUrl": "https://github.com/caredigitalmitra-spec/LaunchPad-Drivers/releases/download/LaunchPad-Drivers/MFS110Driver_2.0.0.0.1.exe"
+    }
+  ]
+}
