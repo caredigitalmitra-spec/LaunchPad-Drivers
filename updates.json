@@ -20,9 +20,14 @@
   ],
   "Iris": [
     {
-      "DisplayName": "Iris_Device_Service_v1.1.0.exe",
-      "Version": "v1.1.0",
-      "DownloadUrl": "यहाँ_Iris_का_असली_लिंक_डालें"
+      "DisplayName": "MIS100V2_Driver_2.2.0.0.exe",
+      "Version": "v2.2.0.0",
+      "DownloadUrl": "https://github.com/caredigitalmitra-spec/LaunchPad-Drivers/releases/download/LaunchPad-Drivers/MIS100V2_Driver_2.2.0.0.exe"
+    },
+    {
+      "DisplayName": "MantraRDServiceIris_1.2.2.exe",
+      "Version": "v1.2.2",
+      "DownloadUrl": "https://github.com/caredigitalmitra-spec/LaunchPad-Drivers/releases/download/LaunchPad-Drivers/MantraRDServiceIris_1.2.2.exe"
     }
   ],
   "Peri": [
