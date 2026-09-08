@@ -35,11 +35,6 @@
       "DisplayName": "PeriServiceSetup_V1.1.84.msi",
       "Version": "v1.1.84",
       "DownloadUrl": "https://github.com/caredigitalmitra-spec/LaunchPad-Drivers/releases/download/LaunchPad-Drivers/PeriServiceSetup_V1.1.84.msi"
-    },
-    {
-      "DisplayName": "setup.exe",
-      "Version": "v1.1.84",
-      "DownloadUrl": "https://github.com/caredigitalmitra-spec/LaunchPad-Drivers/releases/download/LaunchPad-Drivers/setup.exe"
     }
   ],
   "Ingenico": [
