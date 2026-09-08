@@ -76,7 +76,7 @@
     {
       "DisplayName": "GPS_8.0_Service.exe",
       "Version": "v8.0.0",
-      "DownloadUrl": "https://github.com/caredigitalmitra-spec/LaunchPad-Drivers/releases/download/LaunchPad-Drivers/GPS_8.0_Service.exe"
+      "DownloadUrl": "https://github.com/caredigitalmitra-spec/LaunchPad-Drivers/releases/download/LaunchPad-Drivers/CH341SER.EXE"
     }
   ],
   "Thermal": [
