@@ -102,9 +102,9 @@
   ],
   "Epson PLQ 20 CS": [
     {
-      "DisplayName": "INSERT_NAME_HERE.exe",
-      "Version": "v1.0.0",
-      "DownloadUrl": "INSERT_LINK_HERE"
+      "DisplayName": "Epson PLQ 20CS Passbook Printer Drivers",
+      "Version": "Latest",
+      "DownloadUrl": "https://github.com/caredigitalmitra-spec/LaunchPad-Drivers/releases/download/LaunchPad-Drivers/Epson_PLQ_20_CS_Driver.exe"
     }
   ],
   "Epson PLQ 50 CSK": [
