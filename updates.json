@@ -95,9 +95,9 @@
   ],
   "Epson": [
     {
-      "DisplayName": "Epson_Passbook_Printer.exe",
-      "Version": "v1.0.0",
-      "DownloadUrl": "INSERT_LINK_HERE"
+      "DisplayName": "Epson_PLQ_22CS_Passbook_Printer.exe",
+      "Version": "Latest Version",
+      "DownloadUrl": "https://github.com/caredigitalmitra-spec/LaunchPad-Drivers/releases/download/LaunchPad-Drivers/Epson_PLQ_22_CS_Driver.exe"
     }
   ],
   "Epson PLQ 20 CS": [
