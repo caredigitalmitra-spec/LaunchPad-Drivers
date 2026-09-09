@@ -20,9 +20,9 @@
   ],
   "Morpho L0": [
     {
-      "DisplayName": "INSERT_NAME_HERE.exe",
-      "Version": "v1.0.0",
-      "DownloadUrl": "INSERT_LINK_HERE"
+      "DisplayName": "Morpho L0 Device Drivers",
+      "Version": "v20.0.1.54",
+      "DownloadUrl": "https://github.com/caredigitalmitra-spec/LaunchPad-Drivers/releases/download/LaunchPad-Drivers/WindowsRDService_HTTPs-127.0.0.1.exe"
     }
   ],
   "Morpho": [
