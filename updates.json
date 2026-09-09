@@ -1,4 +1,11 @@
 {
+  "Microsoft": [
+    {
+      "DisplayName": "VC_Redist_AIO.exe",
+      "Version": "v2022",
+      "DownloadUrl": "INSERT_LINK_HERE"
+    }
+  ],
   "Mantra": [
     {
       "DisplayName": "MantraL1RDService_1.5.1.exe",
@@ -9,6 +16,13 @@
       "DisplayName": "MFS110Driver_2.0.0.0.1.exe",
       "Version": "v2.0.0.0.1",
       "DownloadUrl": "https://github.com/caredigitalmitra-spec/LaunchPad-Drivers/releases/download/LaunchPad-Drivers/MFS110Driver_2.0.0.0.1.exe"
+    }
+  ],
+  "Morpho L0": [
+    {
+      "DisplayName": "INSERT_NAME_HERE.exe",
+      "Version": "v1.0.0",
+      "DownloadUrl": "INSERT_LINK_HERE"
     }
   ],
   "Morpho": [
@@ -28,6 +42,20 @@
       "DisplayName": "MantraRDServiceIris_1.2.2.exe",
       "Version": "v1.2.2",
       "DownloadUrl": "https://github.com/caredigitalmitra-spec/LaunchPad-Drivers/releases/download/LaunchPad-Drivers/MantraRDServiceIris_1.2.2.exe"
+    }
+  ],
+  "PB510": [
+    {
+      "DisplayName": "INSERT_NAME_HERE.exe",
+      "Version": "v1.0.0",
+      "DownloadUrl": "INSERT_LINK_HERE"
+    }
+  ],
+  "Startek": [
+    {
+      "DisplayName": "INSERT_NAME_HERE.exe",
+      "Version": "v1.0.0",
+      "DownloadUrl": "INSERT_LINK_HERE"
     }
   ],
   "Peri": [
@@ -51,9 +79,37 @@
       "DownloadUrl": "INSERT_LINK_HERE"
     }
   ],
+  "GPS": [
+    {
+      "DisplayName": "GPS_8.0_Service.exe",
+      "Version": "v8.0.0",
+      "DownloadUrl": "https://github.com/caredigitalmitra-spec/LaunchPad-Drivers/releases/download/LaunchPad-Drivers/GPS_8.0_Service.exe"
+    }
+  ],
+  "Thermal": [
+    {
+      "DisplayName": "Thermal_Receipt_Printer.exe",
+      "Version": "v1.0.0",
+      "DownloadUrl": "INSERT_LINK_HERE"
+    }
+  ],
   "Epson": [
     {
       "DisplayName": "Epson_Passbook_Printer.exe",
+      "Version": "v1.0.0",
+      "DownloadUrl": "INSERT_LINK_HERE"
+    }
+  ],
+  "Epson PLQ 20 CS": [
+    {
+      "DisplayName": "INSERT_NAME_HERE.exe",
+      "Version": "v1.0.0",
+      "DownloadUrl": "INSERT_LINK_HERE"
+    }
+  ],
+  "Epson PLQ 50 CSK": [
+    {
+      "DisplayName": "INSERT_NAME_HERE.exe",
       "Version": "v1.0.0",
       "DownloadUrl": "INSERT_LINK_HERE"
     }
@@ -72,24 +128,10 @@
       "DownloadUrl": "INSERT_LINK_HERE"
     }
   ],
-  "GPS": [
+  "Yono Cash": [
     {
-      "DisplayName": "GPS_8.0_Service.exe",
-      "Version": "v8.0.0",
-      "DownloadUrl": "https://github.com/caredigitalmitra-spec/LaunchPad-Drivers/releases/download/LaunchPad-Drivers/GPS_8.0_Service.exe"
-    }
-  ],
-  "Thermal": [
-    {
-      "DisplayName": "Thermal_Receipt_Printer.exe",
+      "DisplayName": "INSERT_NAME_HERE.exe",
       "Version": "v1.0.0",
-      "DownloadUrl": "INSERT_LINK_HERE"
-    }
-  ],
-  "Microsoft": [
-    {
-      "DisplayName": "VC_Redist_AIO.exe",
-      "Version": "v2022",
       "DownloadUrl": "INSERT_LINK_HERE"
     }
   ]
