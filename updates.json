@@ -1,9 +1,9 @@
 {
   "Microsoft": [
     {
-      "DisplayName": "VC_Redist_AIO.exe",
+      "DisplayName": "Microsoft Visual C++ 2015 To 2022",
       "Version": "v2022",
-      "DownloadUrl": "INSERT_LINK_HERE"
+      "DownloadUrl": "https://github.com/caredigitalmitra-spec/LaunchPad-Drivers/releases/download/LaunchPad-Drivers/Microsoft_C_Plus_Plus_Runtime.exe"
     }
   ],
   "Mantra": [
